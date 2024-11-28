@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgb(82, 126, 126,0.5);
+}
+
+.heading,
+.subheading
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    font-weight: 800;
+}
+
+.subheading
+{
+    font-size: larger;
+    text-align:left;
+    color:rgb(31, 16, 16);
+    font-weight: 600;
+}
+
+.image
+{
+    
+    width: 500px;
+    height: auto;
+
+}
+
+.make
+{
+    padding:3%;
+    border-color: rgb(213, 213, 8);
+    border-radius: 3%;
+    width: 80%;
+    background-color: rgb(173, 149, 149);
+}
